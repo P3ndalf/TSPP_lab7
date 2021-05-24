@@ -1,1 +1,1 @@
-Txt file with first commit. Hello world!!!
+Txt file with first commit. Hello world!!!"Additional information in newTxtFile.txt" 
